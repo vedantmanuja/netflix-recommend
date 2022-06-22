@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflix-recommend/static/css/main.04bac1a3.css",
+    "main.js": "/netflix-recommend/static/js/main.9a854a30.js",
+    "index.html": "/netflix-recommend/index.html",
+    "main.04bac1a3.css.map": "/netflix-recommend/static/css/main.04bac1a3.css.map",
+    "main.9a854a30.js.map": "/netflix-recommend/static/js/main.9a854a30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04bac1a3.css",
+    "static/js/main.9a854a30.js"
+  ]
+}
